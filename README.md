@@ -1,6 +1,6 @@
 
 # Link an explanatory video
-https://pame-jcm.github.io/desafio-lt-superhero-api/
+https://youtu.be/iO9E4wT__Fs
 
 # Link a published
 https://pame-jcm.github.io/desafio-lt-superhero-api/
