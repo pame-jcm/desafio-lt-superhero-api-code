@@ -1,0 +1,16 @@
+
+// Abstract
+@import 'abstract/variables';
+
+// Components
+@import 'components/button';
+@import 'components/formcontrol';
+@import 'components/modal';
+@import 'components/offcanvas';
+
+// Base
+@import 'base/base';
+
+
+/* import bootstrap para establecer cambios */ 
+@import  "../../node_modules/bootstrap/scss/bootstrap.scss";
